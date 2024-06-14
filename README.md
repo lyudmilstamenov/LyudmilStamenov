@@ -4,7 +4,7 @@ Welcome to my repository showcasing a collection of my personal programming proj
 
 ## Table of Contents
 
-1. [Sentence Reconstruction with Transformer Model]()
+1. [Sentence Reconstruction with Transformer Model](#sentence-reconstruction-with-transformer-model)
 2. [Password Manager](#password-manager)
 3. [Image Classifier on CIFAR-10](#image-classifier-on-cifar-10)
 4. [Scala Weather Bot](#scala-weather-bot)
@@ -16,7 +16,7 @@ Welcome to my repository showcasing a collection of my personal programming proj
 
 - **Description:** TO DO
 - **Time Frame:** June 2024 – June 2024
-- **GitHub Link:** [Sentence Reconstruction with Transformer Model]([https://github.com/lyudmilstamenov/password_manager](https://github.com/lyudmilstamenov/deep_learning_unibo))
+- **GitHub Link:** [Sentence Reconstruction with Transformer Model](https://github.com/lyudmilstamenov/deep_learning_unibo)
 - **Languages/Technologies Used:** Python, Keras, Tensorflow
 
 ## Password Manager
