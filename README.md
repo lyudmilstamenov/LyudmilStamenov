@@ -4,11 +4,20 @@ Welcome to my repository showcasing a collection of my personal programming proj
 
 ## Table of Contents
 
-1. [Password Manager](#password-manager)
-2. [Image Classifier on CIFAR-10](#image-classifier-on-cifar-10)
-3. [Scala Weather Bot](#scala-weather-bot)
-4. [Uber Dellivery](#uber-dellivery)
-5. [Finite Automatons](#finite-automatons)
+1. [Sentence Reconstruction with Transformer Model]()
+2. [Password Manager](#password-manager)
+3. [Image Classifier on CIFAR-10](#image-classifier-on-cifar-10)
+4. [Scala Weather Bot](#scala-weather-bot)
+5. [Uber Dellivery](#uber-dellivery)
+6. [Finite Automatons](#finite-automatons)
+
+
+## Sentence Reconstruction with Transformer Model
+
+- **Description:** TO DO
+- **Time Frame:** June 2024 – June 2024
+- **GitHub Link:** [Sentence Reconstruction with Transformer Model]([https://github.com/lyudmilstamenov/password_manager](https://github.com/lyudmilstamenov/deep_learning_unibo))
+- **Languages/Technologies Used:** Python, Keras, Tensorflow
 
 ## Password Manager
 
