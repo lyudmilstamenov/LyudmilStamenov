@@ -9,6 +9,19 @@
 
 <br>
 <br>
+## 👉 Programming languages
+
+<p align="center"> 
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  &emsp;  
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+  &emsp;  
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  &emsp;
+<img alt="Prolog" src="https://img.shields.io/badge/Prolog-%23FF4B4B.svg?style=plastic&logo=prolog&logoColor=white">
+  &emsp;  
+</p>
 
 # My Programming Projects
 
