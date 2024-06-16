@@ -1,3 +1,8 @@
+<h1 align="center">Lyudmil Stamenov </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;ML+Engineer;Data+Scientist;Software+Engineer;&center=true&width=500&height=50"></a>
+</p>
+
 # My Programming Projects
 
 Welcome to my repository showcasing a collection of my personal programming projects! Below you'll find links to various projects I've worked on, ranging from those completed during my university studies to newer endeavors.
