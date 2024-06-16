@@ -3,6 +3,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Machine+Learning+Engineer;Data+Scientist;Software+Engineer;&center=true&width=500&height=50"></a>
 </p>
 
+<p align="center">
+  <a href="mailto:lyudmilstamenov@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/LyudmilStamenov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<br>
+<br>
+
 # My Programming Projects
 
 Welcome to my repository showcasing a collection of my personal programming projects! Below you'll find links to various projects I've worked on, ranging from those completed during my university studies to newer endeavors.
