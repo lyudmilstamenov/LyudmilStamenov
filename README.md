@@ -14,7 +14,7 @@ Welcome to my repository showcasing a collection of my personal programming proj
 
 ## Sentence Reconstruction with Transformer Model
 
-- **Description:** TO DO
+- **Description:** Developed for the Deep Learning course at Alma Mater Studiorum - Università di Bologna, this goal of this project is to create a model which is able to reconstruct original English sentences from shuffeld version of this sentence using a Transformer model. The transformer iteratively predicts one token at a time, using the generated sequence as the decoder input for the next prediction. This project exemplifies the practical application of deep learning techniques in natural language processing.
 - **Time Frame:** June 2024 – June 2024
 - **GitHub Link:** [Sentence Reconstruction with Transformer Model](https://github.com/lyudmilstamenov/deep_learning_unibo)
 - **Languages/Technologies Used:** Python, Keras, Tensorflow
