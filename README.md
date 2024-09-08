@@ -40,7 +40,7 @@
 ## Multiple Couriers Vehicle Problem
 - **Time Frame:** July 2024 – August 2024
 - **GitHub Link:** [Multiple Couriers Vehicle Problem](https://github.com/lyudmilstamenov/cdmo_project)
-- - **Languages/Technologies Used:** Python, Minizinc,
+- **Languages/Technologies Used:** Python, Minizinc,
 
 ## Sentence Reconstruction with Transformer Model
 
