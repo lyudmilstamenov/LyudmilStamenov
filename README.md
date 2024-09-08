@@ -24,9 +24,33 @@
   &emsp;  
 </p>
 
-# My Programming Projects
+# Projects
 
-Welcome to my repository showcasing a collection of my personal programming projects! Below you'll find links to various projects I've worked on, ranging from those completed during my university studies to newer endeavors.
+<div>
+  <p align="center">
+    <a href="https://github.com/lyudmilstamenov/deep_learning_unibo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyudmilstamenov&repo=deep_learning_unibo&theme=tokyonight" alt="Sentence Reconstruction with Transformer Model" />
+    </a>
+    <a href="https://github.com/lyudmilstamenov/password_manager">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyudmilstamenov&repo=password_manager&theme=tokyonight" alt="Password Manager" />
+    </a>
+    <a href="https://github.com/lyudmilstamenov/cifar-10-ml-algorithms">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyudmilstamenov&repo=cifar-10-ml-algorithms&theme=tokyonight" alt="Image Classifier on CIFAR-10" />
+    </a>
+    <a href="https://github.com/lyudmilstamenov/scala-weather-bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyudmilstamenov&repo=scala-weather-bot&theme=tokyonight" alt="Scala Weather Bot" />
+    </a>
+    <a href="https://github.com/orgs/uber-summer-practice-sofia-2021/repositories">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=uber-summer-practice-sofia-2021&repo=uber-dellivery&theme=tokyonight" alt="Uber Delivery" />
+    </a>
+    <a href="https://github.com/lyudmilstamenov/Finite-Automatons">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyudmilstamenov&repo=Finite-Automatons&theme=tokyonight" alt="Finite Automatons" />
+    </a>
+  </p>
+</div>
+</details>
+
+<br><br>
 
 ## Table of Contents
 
